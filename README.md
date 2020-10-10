@@ -1,0 +1,2 @@
+# Competitive-Programming
+This is a personal repository to store all the solution of the problems that I solve on various websites including but not limited to contests. Since it is a public repository, you can use the code as you like, but make sure you are not just copy pasting stuff. This also works as a future reference for me if I ever decide to revisit some old problem or concept used in the problem
